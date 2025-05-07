@@ -1,0 +1,14 @@
+Following files are for exploratory analysis and feature engineerng.
+  
+1. Waterwater_exploratory_analysis.ipynb
+  The feature engineered file is outputted. 'wastewater_samples_data.csv' containing two features: Sars_cov2_concentration values, infected_sample_counts. 
+  
+2. Respiratpry_disease_exploratory_analysis.ipynb
+  The feature engineered file is outoutted. 'Covid_series.csv' containing covid_numbers (patient counts in 100K).
+
+3. Covid_wastewater_series_prediction.ipynb comprises of predictive models. 
+
+*  The pure covid number ARIMA and SARIMA models. 
+
+*  The models with watewater feature as exog components for covid series.
+
